@@ -1,4 +1,4 @@
-measurement_value_mPas;replicate;entered_on;instrument;temperature;product_concentration_mg_mL;product;protein_format;molecular_weight_kDa;extinction_coefficient_L_molcm;isoelectric_point
+viscosity_mPas;replicate;entered_on;instrument;temperature;product_concentration_mg_mL;product;protein_format;molecular_weight_kDa;extinction_coefficient_L_molcm;isoelectric_point
 3.93;1;15.03.2019;VISCOSIMETER_02;2;10;BI655300;IgG2;148830;220.42;8.54
 4.28;2;16.03.2019;VISCOSIMETER_02;2;10;BI655300;IgG2;148830;220.42;8.54
 3.42;1;15.03.2019;VISCOSIMETER_02;5;10;BI655300;IgG2;148830;220.42;8.54
